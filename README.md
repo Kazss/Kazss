@@ -1,6 +1,6 @@
-## Olá 👋 sou o Matheus dos Santos, desenvolvedor frontend!
+# Olá 👋 sou o Matheus dos Santos, desenvolvedor frontend!
 <div align="center" flex-direction: "row">
-  <a dhref="https://github.com/kazss">
+  <a href="https://github.com/kazss">
   <img align="top" height="170rem" src="https://github-readme-stats.vercel.app/api?username=kazss&show_icons=true&theme=aura_dark&include_all_commits=true&count_private=true"/>
   <img align="top" height="170rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kazss&layout=compact&langs_count=7&theme=aura_dark"/>
   </a>
@@ -15,9 +15,12 @@
   <img align="right" alt="Kaz-pic" height="150" style="border-radius:100px;" src="https://github.com/kazss.png?width=300&height=300">
 </div>
   
-  ##
+ ##
  
+<h3>Quer me conhecer mais? 👇</h3>
+
 <div>
   <a href = "mailto:matheuskazx@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/matheus-santos-437756165/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
