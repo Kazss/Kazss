@@ -2,7 +2,7 @@
 <div>
   <a href="https://github.com/kazss">
   <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=kazss&show_icons=true&count_private=true&show_icons=true&include_all_commits=true&theme=dracula"/>
-  <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kazss&hide=TeX&layout=compact&langs_count=4&theme=aura_dark"/>
+  <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kazss&hide=TeX&layout=compact&langs_count=2&theme=aura_dark"/>
   </a>
 </div>
 <div style="display: inline_block"><br>
