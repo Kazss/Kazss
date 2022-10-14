@@ -1,8 +1,8 @@
 <h1 align="justify">Olá 👋 sou o Matheus dos Santos, desenvolvedor fullstack!</h1>
 <div>
   <a href="https://github.com/kazss">
-  <img align="top" height="180rem" src="https://github-readme-stats.vercel.app/api?username=kazss&show_icons=true&theme=aura_dark&include_all_commits=true&count_private=true"/>
-  <img align="top" height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kazss&layout=compact&langs_count=7&theme=aura_dark"/>
+  <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=kazss&show_icons=true&theme=aura_dark&include_all_commits=true&count_private=true"/>
+  <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kazss&layout=compact&langs_count=7&theme=aura_dark"/>
   </a>
 </div>
 <div style="display: inline_block"><br>
