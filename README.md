@@ -3,7 +3,7 @@
 
 - 🌱 Atualmente estudando: **NextJs, Tailwind, Serverless**
 
-- 📫 Como me contatar rapidamente: **matheuskazx@gmail.com**
+- 📫 Como me contatar rapidamente: **matheuskazx@gmail.com** ou pelo discord:<a href="https://discord.gg/tqTEb5BAvB" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="tqTEb5BAvB" height="30" width="40" /></a>
 
 <h3 align="left">Me contate também por:</h3>
 <p align="left">
